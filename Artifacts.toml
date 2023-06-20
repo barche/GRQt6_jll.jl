@@ -1,0 +1,10 @@
+[[GRQt6]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d4994ebdcc46e1e1a451ae33c39977cc75739d6"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "2d0a34ea798440f82be5dfa6c04e5f6c7926eb9fcc1cbd589df6420cced82610"
+    url = "https://github.com/barche/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-linux-gnu-cxx11.tar.gz"
